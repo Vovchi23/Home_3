@@ -2,6 +2,8 @@
 и проверяет, является ли оно палиндромом. 
 */
 
+Console.Clear();
+
 int number;
 while (true)
 {
